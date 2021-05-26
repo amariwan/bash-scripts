@@ -1,8 +1,8 @@
 # Bash Scripts
 
 
-[![coverage report](http://192.168.178.58/root/bash-scripts/badges/master/coverage.svg)](http://192.168.178.58/root/bash-scripts/-/commits/master)
-[![pipeline status](http://192.168.178.58/root/bash-scripts/badges/master/pipeline.svg)](http://192.168.178.58/root/bash-scripts/-/commits/master)
+[![coverage report](http://github.com/amariwan/bash-scripts/badges/master/coverage.svg)](http://192.168.178.58/root/bash-scripts/-/commits/master)
+[![pipeline status](http://github.com/amariwan/bash-scripts/badges/master/pipeline.svg)](http://192.168.178.58/root/bash-scripts/-/commits/master)
 
 Misc. bash scripts that i write mostly for fun. These are written for good practice, for tasks i occassionally need to do that involve multiple steps.
 
